@@ -1,1 +1,1 @@
-## Basic Algorithms in Ruby language.
+## Basic Algorithms in Golang.
