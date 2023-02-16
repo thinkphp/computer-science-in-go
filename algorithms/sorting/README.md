@@ -1,1 +1,1 @@
-# Sorting Technics
+# Sorting Algorithms Technics
