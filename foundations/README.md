@@ -1,1 +1,1 @@
-## Basic Algorithms in Golang.
+##  Algorithms Design Technics in Golang.
