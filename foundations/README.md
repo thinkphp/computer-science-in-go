@@ -1,1 +1,1 @@
-##  Algorithms Design Technics in Golang.
+##  Algorithms Design Techniques.
