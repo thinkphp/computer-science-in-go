@@ -72,13 +72,16 @@ func main() {
 
 ```
 
-https://golang.org/
 
-https://en.wikipedia.org/wiki/Go_(programming_language)
+
 
 ## References
 
+https://golang.org/
+
 https://go.dev/doc/effective_go
+
+https://gobyexample.com/
 
 https://www.programming-books.io/essential/go/
 
