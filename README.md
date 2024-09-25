@@ -1,8 +1,5 @@
 # Essential Go
 
-# Introduction to Go Programming
-## Harvard University
-
 ### Course Description
 This course introduces students to the Go programming language, focusing on its unique features, syntax, and practical applications. Students will learn the fundamentals of Go and gain hands-on experience through various projects and exercises.
 
