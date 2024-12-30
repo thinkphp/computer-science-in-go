@@ -418,4 +418,4 @@ func main() {
 
 - https://www.programming-books.io/essential/go/
 
-https://www.digitalocean.com/community/tutorials/how-to-build-and-install-go-programs
+- https://www.digitalocean.com/community/tutorials/how-to-build-and-install-go-programs
