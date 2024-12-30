@@ -408,12 +408,14 @@ func main() {
 
 ## References
 
-https://golang.org/
+- https://golang.org/
 
-https://go.dev/doc/effective_go
+- https://cs.lmu.edu/~ray/notes/introgo/
 
-https://gobyexample.com/
+- https://go.dev/doc/effective_go
 
-https://www.programming-books.io/essential/go/
+- https://gobyexample.com/
+
+- https://www.programming-books.io/essential/go/
 
 https://www.digitalocean.com/community/tutorials/how-to-build-and-install-go-programs
