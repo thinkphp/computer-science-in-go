@@ -408,6 +408,8 @@ func main() {
 
 ## References
 
+- https://www.golang-book.com/books/
+
 - https://golang.org/
 
 - https://cs.lmu.edu/~ray/notes/introgo/
